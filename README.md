@@ -1,0 +1,3 @@
+# desktop
+
+QSystemTrayIcon project
